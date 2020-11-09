@@ -8,6 +8,7 @@ package com.leisurexi.http.server.channel;
  */
 public class EventLoop {
 
+    private Thread thread;
 
 
 }
